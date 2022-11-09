@@ -28,11 +28,19 @@ AUC score with XGBoost is:  0.9553571428571429
 Comparision of LGBM wirh XGBOOST:-
 
 ################################################
+
 LGBM execution time is:  0:00:00.039922
+
 XGBoost execution time is:  0:00:00.085000
+
 ################################################
+
 Accuracy with LGBM =  0.9649122807017544
+
 Accuracy with XGBoost=  0.956140350877193
+
 ################################################
+
 AUC score with LGBM is:  0.9733333333333333
+
 AUC score with XGBoost is:  0.9553571428571429
